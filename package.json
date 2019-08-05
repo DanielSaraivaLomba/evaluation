@@ -1,0 +1,34 @@
+{
+  "name": "rad",
+  "version": "1.0.0",
+  "description": "Avalição dos Professores",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "nodemon server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/dsi-ipca/rad.git"
+  },
+  "author": "Daniel Lomba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/dsi-ipca/rad/issues"
+  },
+  "homepage": "https://gitlab.com/dsi-ipca/rad#README",
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "eslint": "^5.16.0",
+    "express": "^4.16.4",
+    "express-fileupload": "^1.1.5",
+    "mongoose": "^5.5.4",
+    "morgan": "^1.9.1",
+    "vuetify": "^2.0.3"
+  }
+}

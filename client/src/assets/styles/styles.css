@@ -1,0 +1,231 @@
+  #toolbar{
+    color: aliceblue
+  }
+  #pform {
+      color: #000000; 
+      font-family: 'Helvetica Neue', sans-serif; 
+      font-size: 11px; 
+      line-height: 24px; 
+      margin: 0 0 24px; 
+      text-align: justify; 
+      text-justify: inter-word;
+      font-weight: normal;
+    }
+  h1 { 
+      color: #111; 
+      font-family: 'Helvetica Neue', sans-serif;
+      font-size: 275px; 
+      font-weight: bold; 
+      letter-spacing: -1px; 
+      line-height: 1; 
+      text-align: center;
+     }
+
+  h2 { color: #111; 
+    font-family: 'Open Sans', sans-serif; 
+    font-size: 30px; 
+    font-weight: 300; 
+    line-height: 32px; 
+    margin: 0 0 50px; 
+    text-align: center; 
+   }
+  
+  p { color: #000000; 
+    font-family: 'Helvetica Neue', sans-serif; 
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 24px; 
+    margin: 0 0 24px; 
+    text-align: justify; 
+    text-justify: inter-word;
+    
+   }
+
+   .files {
+    color: #000000;
+    margin: 0 0 15px;
+    font-family: 'Helvetica Neue', sans-serif; 
+    font-size: 12px; 
+    line-height: 12px;  
+    text-align: justify; 
+    text-justify: inter-word;
+    font-weight: normal;
+    width: auto;
+  }
+
+  #upload_button {
+    color: #000000; 
+    font-family: 'Helvetica Neue', sans-serif;
+    border-radius: 20px;
+    font-weight: bold;
+    text-align: justify; 
+    text-justify: inter-word;
+    font-weight: normal;
+  }
+
+  .titulos {
+    color: #000000; 
+    font-family: 'Helvetica Neue', sans-serif; 
+    font-weight: bold;
+    margin: 0 0 24px;  
+    text-align: justify; 
+    text-justify: inter-word;
+    font-weight: normal;
+  }
+
+  .form {
+	padding: 10px 20px;
+	background: #f4f7f8;
+	margin: 5px auto;
+	border-radius: 8px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  }
+
+  .atividade {
+    text-align: center;
+    font-size: 28px;
+  }
+
+  .atividadetab {
+    background: #ffffff;
+  }
+
+  .subatividade {
+    text-align: center;
+    font-size: 17px;
+  }
+
+  .subheader{
+    margin: 0 15px 5px;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+
+  }
+
+  .divider {
+    height: 100px;
+  }
+
+
+.eval_text_area{
+	padding: 10px 10px;
+	background: #ffffff;
+	border-radius: 8px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+#download {
+  display: flex;
+  margin: 0 15px 30px;  
+}
+
+#downloadbutton {
+  flex: 8px 12px 20px;
+  color: #000000; 
+  font-family: 'Helvetica Neue', sans-serif; 
+  font-weight: bold;
+  margin: 0 0 30px;  
+  text-align: justify; 
+  text-justify: inter-word;
+  font-weight: normal;
+}
+
+#pdfname {
+  font-size: 13px;
+  text-align: justify; 
+  text-justify: inter-word;
+  font-weight: normal;
+  padding: 10px 10px;
+}
+
+#toolbartable {
+  border-radius: 20px;
+  background-image: linear-gradient(to right, #004d30 , #c4ddd3);
+}
+
+#buttonedit {
+  color:blue
+}
+
+#tablebutton {
+  border-radius: 20px;
+  color: rgb(255, 255, 255);
+  background-image: linear-gradient(to right, #004d30 , #004d30);
+}
+
+#buttonremove {
+  color:red
+}
+
+#divbutton{
+  margin: 0 0 50px;
+  color: #000000; 
+  font-family: 'Helvetica Neue', sans-serif;
+  border-radius: 10px;
+  text-align: justify; 
+  text-justify: inter-word;
+  font-weight: normal;
+}
+
+#justify-center {
+  justify-content: center;
+  justify-items: center
+}
+
+#iconbutton{
+  margin: 0 0 20px;
+}
+
+.removebutton{
+  margin: 0 0 0;
+  font-family: 'Helvetica Neue', sans-serif;
+  font-weight: normal;
+  float: right;
+
+}
+
+#uploadbutton{
+  margin: 0 0 0;
+  font-family: 'Helvetica Neue', sans-serif;
+  font-weight: normal;
+}
+
+#anoletivo{
+  font-size: 15px;
+  font-weight: normal; 
+  line-height: 24px; 
+  text-align: justify;
+  text-justify: inter-word;
+  color: #edf3f1;
+  font-weight: normal;
+}
+
+.upload{
+  width: auto;
+}
+
+.bform{
+  background-image: linear-gradient(to right, #c4ddd3 , #c4ddd3);
+  border-radius: 20px;
+  margin: 0 0 15px;
+}
+
+.addbutton{
+  background-image: linear-gradient(to right, #039cc2 , #039cc2);
+  border-radius: 20px;
+  margin: 0 0 15px;
+}
+
+.titles{
+  color: rgb(0, 0, 0);
+  border-radius: 5px;
+  margin: 0 0 20px;
+}
+
+.tablebutton{
+  margin: 0 5px 0;
+
+}
+
+
