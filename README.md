@@ -23,22 +23,25 @@ the documents for evaluation, as also download the PDF files attached.
 
 ![alt text](img/Screenshot from 2020-10-02 14-58-45.png)
 
-### Evalutator - Choose form
+### Evalutated - Choose form
 
 ![alt text](img/Screenshot from 2020-10-02 14-59-15.png)
 
-### Evaluator - Edit form
+### Evalutated - Edit form
 
 ![alt txt](img/Screenshot from 2020-10-02 14-59-39.png)
 
-### Evaluator - Edit form (different tab)
+### Evalutated - Edit form (different tab)
 
 ![alt txt](img/Screenshot from 2020-10-02 15-00-02.png)
 
-### Evaluator - Text box
+### Evalutated - Text box
 
 ![alt txt](img/Screenshot from 2020-10-02 14-59-54.png)
 
+### Evaluator - Consult forms from Evaluated
+
+![alt txt](img/Screenshot from 2020-10-02 15-48-18.png)
 
 
 ## How to start project
