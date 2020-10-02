@@ -19,6 +19,8 @@ the documents for evaluation, as also download the PDF files attached.
 
 ## Photos
 
+![alt text](e)
+
 ## How to start project
 
 on / directory ```npm install``` to install all dependencies from package json.
