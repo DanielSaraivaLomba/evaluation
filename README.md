@@ -1,6 +1,6 @@
 # RAD
 
-Guested teachers of Instituto Polit´ecnico do C´avado e do Ave have to submit a yealier report
+Guested teachers of Instituto Politecnico do C´avado e do Ave have to submit a yealier report
 every civil year, regarding their scientific activity, academic and management. They have also need
 to add proof of each activity through the addition of a PDF document.
 
