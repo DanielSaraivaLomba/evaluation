@@ -19,7 +19,13 @@ the documents for evaluation, as also download the PDF files attached.
 
 ## Photos
 
-![alt text](e)
+### Login
+
+![alt text](img/Screenshot from 2020-10-02 14-58-45.png)
+
+### Evalutator - Choose form
+
+![alt text](img/Screenshot from 2020-10-02 14-59-15.png)
 
 ## How to start project
 
